@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    color: black !important;
+}
+
+a{
+    color: black;
+}
+
+.home{
+    height: 100vh;
+    /* background-color: teal; */
+}
+
+.about{
+    height: 100vh;
+    /* background-color: orange; */
+}
+
+.skills{
+    height: 100vh;
+    /* background-color: lightpink; */
+}
+
+.projects{
+    height: 100vh;
+    /* background-color: lightskyblue; */
+}
+
+.contacts{
+    height: 100vh;
+    /* background-color: lightgreen; */
+}
+
+
+.heading-content{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    max-width: 100%;
+}
+
+
+.headings{
+    padding-top: 3rem;
+    margin-bottom: 4rem;
+}
+
+
+table, th, td {
+    /* border: 1px solid black; */
+  }
+  
+  table {
+    width: 100%;
+  }
